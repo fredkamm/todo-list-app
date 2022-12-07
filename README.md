@@ -15,7 +15,7 @@ I wanted to improve on my local storage skills and the best project to practice 
 </div>
 <br>
 <div>
-    <img src="./assets/todo.png"  width="500" height="300"/>
+    <img src="./assets/Todo.png"  width="500" height="500"/>
 </div>
 
 # Tools Used
