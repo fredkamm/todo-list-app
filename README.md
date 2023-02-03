@@ -10,7 +10,7 @@ I wanted to improve on my local storage skills and the best project to practice 
 # Usage
 <div>
     <a href="https://fredstodoapp.netlify.app/">
-        Visit my app here!
+        Visit my app here
     </a>
 </div>
 <br>
